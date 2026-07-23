@@ -12,7 +12,7 @@ data_hoje = date.today()
 dia_da_semana = data_hoje.strftime('%A')
 
 continuar = "SIM"
-while continuar == "SIM":
+while continuar == "      SIM":
 
     print("             Bem-vindo ao Cinemark              ")
     print("----------------- Menu de  Filmes----------------")
